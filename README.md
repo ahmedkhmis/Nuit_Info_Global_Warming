@@ -14,7 +14,8 @@ FR:
 
 ![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/44c09418-425c-45ca-9915-caf3e40ef45e)
 
-![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/8ad78e4b-3eeb-4371-8b1d-4902f89c494b)
+![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/a2b729ca-84fc-4c76-a6ae-78418ad9930d)
+
 
 
 AR:
@@ -34,4 +35,7 @@ and More :
 
 
 ![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/af5056a9-84d9-4000-bf33-1c207ebe2d17)
+
+![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/6a4f4827-0915-48cd-adc4-e3839c0f4534)
+
 
