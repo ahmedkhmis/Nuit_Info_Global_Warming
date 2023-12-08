@@ -1,7 +1,6 @@
-# Nuit_Info_Global_Warming
+![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/78a88aea-e77f-4054-9c27-20f3944ed67f)# Nuit_Info_Global_Warming
 Global Warming Info Night multilingual challenges by Ichrak Ben Saad , Zayneb Yaich and Ahmed KHMIS , Vinci Code
 
-developped by ReactJS,
 
 EN : 
 ![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/2cb270fd-4099-4c9e-9948-413c2879d696)
@@ -41,3 +40,7 @@ and More :
 ![image](https://github.com/ahmedkhmis/Nuit_Info_Global_Warming/assets/76177231/6a4f4827-0915-48cd-adc4-e3839c0f4534)
 
 
+Developped with ReactJs 
+
+ to install the project : npm install
+ to run the project : npm run start
